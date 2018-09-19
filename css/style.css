@@ -379,6 +379,7 @@ footer{
 		margin: auto;
 		max-width: 70%;
 		height: auto;
+		margin-top: 5vh;
 	}
 }
 @media screen and (max-width: 600px){
