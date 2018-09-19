@@ -348,7 +348,7 @@ footer{
 }
 @media screen and (max-width: 768px){
 	.catalogid{
-		margin-top: -6.8vh;
+		margin-top: 5vh;
 	}
 	.logo{
 		width: 150px;
