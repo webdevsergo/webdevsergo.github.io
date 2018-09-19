@@ -374,6 +374,12 @@ footer{
 		max-width: 70%;
 		height: auto;
 	}
+	.sastext{
+		display: block;
+		margin: auto;
+		max-width: 70%;
+		height: auto;
+	}
 }
 @media screen and (max-width: 600px){
 	.logo{
