@@ -374,6 +374,9 @@ footer{
 		max-width: 70%;
 		height: auto;
 	}
+	.ad span{
+		margin-top: 110px;
+	}
 	.sastext{
 		display: block;
 		margin: auto;
